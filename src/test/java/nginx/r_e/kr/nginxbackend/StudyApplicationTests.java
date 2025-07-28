@@ -1,4 +1,4 @@
-package nginx.r_e.kr.study;
+package nginx.r_e.kr.nginxbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
